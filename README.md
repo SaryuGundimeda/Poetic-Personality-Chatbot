@@ -139,7 +139,7 @@ Simulates real-time composition with:
 - Realistic pauses at punctuation
 - Dynamic visual effects
 
-## 📊 API Usage Limits
+## API Usage Limits
 
 ### Free Tier (Gemini API):
 - **15 requests per minute**
